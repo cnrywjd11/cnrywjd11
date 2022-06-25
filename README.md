@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📝 Server Developer
+- Server Developer at Kakaoenterprise
+
+### 👀 Notion
+- [about me](https://cnrywjd11.notion.site/cnrywjd11/anthony-ea445abcfa704c4fa0453ccea79a1a1d)
+
+### :mailbox_with_mail: Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cnrywjd11@gmail.com)](mailto:cnrywjd11@gmail.com)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B5%90%EC%A0%95-%EC%B6%94-29b71a194/)](https://www.linkedin.com/in/%EA%B5%90%EC%A0%95-%EC%B6%94-29b71a194/)
