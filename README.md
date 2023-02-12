@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### 📝 Server Developer
-- Server Developer at Kakaoenterprise
+- Server Developer at Line Plus
 
 ### 👀 Notion
 - [About me](https://cnrywjd11.notion.site/cnrywjd11/anthony-ea445abcfa704c4fa0453ccea79a1a1d)
